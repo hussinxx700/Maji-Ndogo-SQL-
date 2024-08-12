@@ -28,27 +28,6 @@ The dataset used in this project is from the **md_water_services** database, con
 - **water_source**: Information on various water sources, including type and number of people served.
 - **well_pollution**: Contains data on pollution tests conducted on wells.
 
-## Project Structure
-- **Queries:** SQL queries used for data extraction, cleaning, transformation, and analysis.
-- **Views:** SQL scripts for creating and managing views to simplify data analysis.
-- **Analysis:** Summaries and insights derived from the data, highlighting key findings related to water distribution, usage patterns, and infrastructure issues.
-
-## How to Use This Project
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/maji-ndogo-water-access-analysis.git
-   ```
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd maji-ndogo-water-access-analysis
-   ```
-3. **Run SQL Queries:**
-   - Use the provided SQL scripts in the `queries` folder to perform data extraction, cleaning, transformation, and analysis.
-   - The `views` folder contains scripts to create and manage views that simplify analysis.
-
-4. **Review Analysis:**
-   - Explore the analysis and insights derived from the data in the `analysis` folder.
-
 ## Key Insights
 - **Water Source Distribution:** Identified imbalances in the distribution of water sources across different regions.
 - **Usage Patterns:** Discovered areas with high consumption, suggesting potential overuse or inefficiencies.
